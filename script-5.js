@@ -1,4 +1,4 @@
 window.addEventListener('DOMContentLoaded', () => {
     const versionElement = document.getElementById('version');
-    versionElement.textContent = "4";
+    versionElement.textContent = "5";
 });
