@@ -1,1 +1,0 @@
-import{j as i,L as s}from"./index-D5q1DPZV.js";function n(){return i.jsxs("div",{children:[i.jsx("div",{children:"This is Page in V2"}),i.jsx(s,{to:"/",children:"Go to Home"})]})}export{n as default};

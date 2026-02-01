@@ -1,0 +1,1 @@
+import{j as i,L as s}from"./index-CLHvSQ1G.js";function n(){return i.jsxs("div",{children:[i.jsx("div",{children:"This is Page in V3"}),i.jsx(s,{to:"/",children:"Go to Home"})]})}export{n as default};
