@@ -1,1 +1,0 @@
-import{j as i,L as e}from"./index-DuUI-C2V.js";function o(){return i.jsxs("div",{children:[i.jsx("div",{children:"This is Home in V1"}),i.jsx(e,{to:"/page",children:"Go to Page"})]})}export{o as default};
