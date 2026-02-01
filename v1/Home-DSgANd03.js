@@ -1,1 +1,0 @@
-import{j as i,L as e}from"./index-BM2Plltn.js";function s(){return i.jsxs("div",{children:[i.jsx("div",{children:"This is Home in V1"}),i.jsx(e,{to:"/page",children:"Go to Page"})]})}export{s as Home};
